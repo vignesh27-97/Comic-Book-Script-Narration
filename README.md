@@ -1,4 +1,4 @@
-# Comic-Book-Script-Narration
+# Comic Book Script Narration
 
 •	Scripted a movie story and captured the images based upon the flow of the story narration
 
