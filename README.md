@@ -4,4 +4,4 @@
 
 •	Looped the subtitles in ENG and regional language for the bordered frames and stacked them horizontally 
 
-•	Applied animation effects to the frames and exported as pdf version for presenting the script to producers
+•	Developed a software for applying animation effects to the frames and exporting as pdf version for presenting the script to producers
